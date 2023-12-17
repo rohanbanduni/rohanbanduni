@@ -1,4 +1,4 @@
-# Hello, I'm @rohanbanduni 👋
+# Hello, I'm [@rohanbanduni] 👋
 
 Welcome to my GitHub profile! Here you'll find a collection of projects I've worked on and contributed to.
 
